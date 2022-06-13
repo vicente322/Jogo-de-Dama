@@ -33,19 +33,6 @@ public class Damas{
             }
             return b;
       }
-      /* public static void DisplayBoard(String [][] b){
-            System.out.printf("   0 1 2 3 4 5 6 7 \n");
-            System.out.printf("0 |*| |*| |*| |*| |\n");
-            System.out.printf("1 | |*| |*| |*| |*|\n");
-            System.out.printf("2 |*| |*| |*| |*| |\n");
-            System.out.printf("3 | |*| |*| |*| |*|\n");
-            System.out.printf("4 |*| |*| |*| |*| |\n");
-            System.out.printf("5 | |*| |*| |*| |*|\n");
-            System.out.printf("6 |*| |*| |*| |*| |\n");
-            System.out.printf("7 | |*| |*| |*| |*|\n");
-
-      } */
-
       public static void DisplayBoard(String [][] b){
 
             String board = "";
